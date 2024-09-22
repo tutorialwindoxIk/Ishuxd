@@ -24,7 +24,7 @@ Click the button below to easily deploy **Yukki Music Bot** on Heroku!
 
 > If you encounter an error during app creation, try forking the repository first.
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Sudhirsn23w/YukkiMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/tutorialwindoxIk/Ishuxd"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a>
 
 ---
 ## 🖇️ VPS Deployment Guide
@@ -34,7 +34,7 @@ Click the button below to easily deploy **Yukki Music Bot** on Heroku!
 
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/TheTeamVivek/YukkiMusic && cd YukkiMusic
+   git clone https://github.com/tutorialwindoxIk/Ishuxd && cd YukkiMusic
    ```
 
 3. **Run the setup**
